@@ -42,9 +42,22 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  line-height: 1.4;
 
   a + a {
     opacity: 0.5;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .no-link-title {
+    cursor: default;
+    
+    &:hover {
+      text-decoration: none !important;
+    }
   }
 }
 
@@ -81,6 +94,12 @@
 
   .archive__item-title {
     text-decoration: underline;
+  }
+}
+
+.archive__item.no-link-item:hover {
+  .archive__item-title {
+    text-decoration: none !important;
   }
 }
 

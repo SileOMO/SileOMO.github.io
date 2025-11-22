@@ -1,32 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Sile O'Modhrain",
+    "email": "sileo@umich.edu",
+    "phone": "734/647-4459",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Professor of Music, School of Music, Theatre & Dance and Professor of Information, School of Information",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "4520 Leinweber Comp Sci & Info Bdg",
+      "postalCode": "48109",
+      "city": "Ann Arbor",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Sile O'Modhrain",
+        "url": "https://scholar.google.com/citations?user=81JmIOoAAAAJ"
       }
     ]
   },
