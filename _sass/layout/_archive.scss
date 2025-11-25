@@ -95,6 +95,10 @@
   .archive__item-title {
     text-decoration: underline;
   }
+  
+  .archive__item-title:has(.no-link-title) {
+    text-decoration: none !important;
+  }
 }
 
 .archive__item.no-link-item:hover {
