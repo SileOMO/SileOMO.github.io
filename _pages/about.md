@@ -9,11 +9,24 @@ redirect_from:
 
 ## Highlights
 
- - Forthcoming monograph from MIT Press: <a href="https://mitpress.mit.edu/9780262052399/a-dialogue-of-the-senses/" target="_blank" rel="noopener">‘<b>A Dialogue of the Senses : Designing Interaction with the Body in Mind</b>’</a> 
+### Monograph
 
- - Co-founded a startup manufacturing a multi-line Braille display with Alex Russomanno and Brent Gillespie 
-<a href=" https://www.newhaptics.com/ " target="_blank" rel="noopener"><b>NewHaptics</b></a>
-<br><img src="images/Codex.jpg" alt="Codex multi-line Braille display" style="max-width:30%; margin-top:2em;">  
+Forthcoming monograph from MIT Press: <a href="https://mitpress.mit.edu/9780262052399/a-dialogue-of-the-senses/" target="_blank" rel="noopener">‘A Dialogue of the Senses : Designing Interaction with the Body in Mind’</a>
+<br><img src="images/DialogueOfTheSenses.avif" alt="Cover of the book 'A Dialogue of the Senses: Designing Interaction with the Body in Mind', by Sile O'Modhrain" style="width:30%; margin-top:1em"><br><br>
+
+### Startup
+
+Co-founded a startup <a href=" https://www.newhaptics.com/ " target="_blank" rel="noopener">(NewHaptics)</a> manufacturing a multi-line Braille display with Alex Russomanno and Brent Gillespie
+<br><img src="images/Codex.jpg" alt="Codex multi-line refreshable Braille display" style="width:40%; margin-top:1em"><br><br>
+
+### TED Talk
+
+Topic : <a href="https://www.youtube.com/watch?v=ZrjHURQiffA" target="_blank" rel="noopener"> Unnatural selection: Survival in the digital age </a><br>
+May, 2017, London Business School<br>
+<div style="width:75%;aspect-ratio:16/9;">
+  <iframe src="https://www.youtube.com/embed/ZrjHURQiffA" title="TED Talk: Unnatural selection: Survival in the digital age" style="width:100%; height:100%; border:0;" allowfullscreen></iframe>
+</div>
+
 
 ## About
 
