@@ -1,6 +1,6 @@
 ---
 title: "ContactIM"
-excerpt: "Touch-enabled instant messaging system for asynchronous interpersonal communication.<br/><br/><img src='/images/hapticim.gif'>"
+excerpt: "Touch-enabled instant messaging system for asynchronous interpersonal communication.<br/><br/><img src='/images/hapticIM.gif'>"
 collection: portfolio
 ---
 
