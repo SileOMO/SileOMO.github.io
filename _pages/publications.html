@@ -17,7 +17,7 @@ author_profile: true
   }
   .tabs {
     display: flex;
-    border-bottom: 0.125em solid #e0e0e0;
+    border-bottom: 0.125em solid var(--global-border-color);
     margin-bottom: 1.5em;
     gap: 2em;
     padding-top: 2.5em;
@@ -29,15 +29,15 @@ author_profile: true
     border: none;
     border-bottom: 0.19em solid transparent;
     font-size: 1.1em;
-    color: #006567;
+    color: var(--global-muted-text-color);
     outline: none;
     transition: border-bottom 0.2s, color 0.2s;
     font-weight: 500;
   }
   .tab.active {
-    border-bottom: 0.19em solid #006567;
+    border-bottom: 0.19em solid var(--global-link-color);
     font-weight: bold;
-    color: #222;
+    color: var(--global-text-color);
     background: none;
     box-shadow: none;
   }
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
           {% if post.category == 'book_chapters' %}
             {% if book_chapters_found == false %}
               {% assign book_chapters_found = true %}
-              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #006567; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid #006567;">Book Chapters</h2>
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Book Chapters</h2>
             {% endif %}
             {% include archive-single.html %}
           {% endif %}
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
           {% if post.category == 'lightly_reviewed' %}
             {% if lightly_reviewed_found == false %}
               {% assign lightly_reviewed_found = true %}
-              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #006567; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid #006567;">Lightly-reviewed Conference Papers</h2>
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Lightly-reviewed Conference Papers</h2>
             {% endif %}
             {% include archive-single.html %}
           {% endif %}
