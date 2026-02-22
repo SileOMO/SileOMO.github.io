@@ -1,11 +1,11 @@
 ---
 title: "Topographic Torch"
-excerpt: "Handheld digital mapping tool with egocentric interaction for spatial understanding and navigation.<br/><br/><img src='/images/topographictorch.jpg'>"
+excerpt: "Handheld digital mapping tool with egocentric interaction for spatial understanding and navigation.<br/><br/><img src='/images/topographictorch.jpg' alt='Handheld device displaying a street map'>"
 collection: portfolio
 ---
 
 Topographic Torch is a handheld digital mapping tool featuring a novel egocentric interaction model enabling people to physically point at objects of interest in the world and automatically see those objects on a digital map. In this way the tool places people in an egocentric frame of reference with respect to the map and, we believe, may enhance people's ability to understand the relationships between where they are in the world and where other objects of interest are in relation to them.
-<br/><br/><img src='/images/topographictorch.jpg'>
+<br/><br/><img src='/images/topographictorch.jpg' alt='Handheld device displaying a street map'>
 
 ## Related Publications:
 

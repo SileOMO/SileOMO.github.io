@@ -1,11 +1,11 @@
 ---
 title: "Mesh"
-excerpt: "A wearable vibrotactile platform for mobile multi-modal applications.<br/><br/><img src='/images/nmesh.jpg'>"
+excerpt: "A wearable vibrotactile platform for mobile multi-modal applications.<br/><br/><img src='/images/nmesh.jpg' alt=\"Front and back views of a handheld device, with internal circuitry visible\">"
 collection: portfolio
 ---
 
 Mesh is a hardware platform that integrates inertial sensing, a compass and a vibrotactile display into a back pack for a standard iPaq. The objective of Mesh is to provide a platform for prototyping examples of applications that combine haptic, visual and auditory display in a single hand-held device that is capable of communicating with other similar devices. Current examples of such applications are the Body Mnemonics, ContactIM and Topographic Torch projects detailed below.
-<br/><br/><img src='/images/nmesh.jpg' style='margin-right: 20px;'><img src='/images/meshhs.jpg'>
+<br/><br/><img src='/images/nmesh.jpg' alt="Front and back views of a handheld device, with internal circuitry visible" style='margin-right: 20px;'><img src='/images/meshhs.jpg' alt='A hand holding a device with an overlaid arc diagram showing tracked motion in 3D space.'>
 
 ## Related Publications:
 

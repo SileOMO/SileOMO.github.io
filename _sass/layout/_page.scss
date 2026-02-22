@@ -246,7 +246,6 @@
   text-transform: uppercase;
 }
 
-
 /*
    Page taxonomy
    ========================================================================== */
@@ -398,4 +397,9 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+// Darker date color only for talks (archive-single-talk.html)
+.talk-archive__item .page__meta {
+  color: var(--post-date-color);
 }

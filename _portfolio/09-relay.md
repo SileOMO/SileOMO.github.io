@@ -1,6 +1,6 @@
 ---
 title: "Relay"
-excerpt: "Conveying the movement of a distant vehicle through haptic feedback.<br/><br/><img src='/images/car.jpg'>"
+excerpt: "Conveying the movement of a distant vehicle through haptic feedback.<br/><br/><img src='/images/car.jpg' alt='a toy version of an orange off-road truck'>"
 collection: portfolio
 ---
 
@@ -11,7 +11,7 @@ Users engaged in Telemanipulation - the remote control of mechanical devices - t
 We use a radio controlled toy car to demonstrate this concept. Radio controlled vehicles are traditionally interfaced with a controller equipped with spring loaded levers for forward/reverse and left/right. The operator relies on observing the vehicle in order to make the decisions needed to steer it. The controlling interface offers no tactile information to the user about what forces the vehicle is 'experiencing'. We aim to enhance the interactivity and improve the control of the vehicle by developing a handset controller which enables the user to actually feel the forces the vehicle is experiencing as it accelerates, brakes and turns.
 
 To achieve this we have mounted accelerometers in the vehicle to measure the fluctuations in tilt, roll and yaw resulting from driving. This information about the terrain the car is traveling over is relayed to the handset via a radio link and is translated into displacement of an actuated plate in the handset.
-<br/><br/><img src='/images/car.jpg'>
+<br/><br/><img src='/images/car.jpg' alt='a toy version of an orange off-road truck'>
 
 ## Handheld Haptic Display for Relay
 

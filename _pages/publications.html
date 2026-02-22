@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
           {% if post.category == 'book_chapters' %}
             {% if book_chapters_found == false %}
               {% assign book_chapters_found = true %}
-              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Book Chapters</h2>
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color:var(--section-title-bg-color); padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Book Chapters</h2>
             {% endif %}
             {% include archive-single.html %}
           {% endif %}
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
           {% if post.category == 'lightly_reviewed' %}
             {% if lightly_reviewed_found == false %}
               {% assign lightly_reviewed_found = true %}
-              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Lightly-reviewed Conference Papers</h2>
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #555; background-color:var(--section-title-bg-color); padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid var(--global-link-color);">Lightly-reviewed Conference Papers</h2>
             {% endif %}
             {% include archive-single.html %}
           {% endif %}

@@ -12,7 +12,7 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #0ea1c5;
+$link                       : #3ecfff;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 
@@ -52,4 +52,6 @@ html[data-theme="dark"] {
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
     --github-icon-color                 : #ffffff;
+    --section-title-bg-color            : #fff; /* white for section titles in dark mode */
+    --post-date-color                   : #{$text};
 }

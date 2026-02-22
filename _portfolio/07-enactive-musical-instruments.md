@@ -1,11 +1,11 @@
 ---
 title: "Enactive Musical Instruments"
-excerpt: "An Enactive Approach to the Design of New Tangible Musical Instruments.<br/><br/><img src='/images/pbcloseup.jpg'>"
+excerpt: "An Enactive Approach to the Design of New Tangible Musical Instruments.<br/><br/><img src='/images/pbcloseup.jpg' alt='Open wooden box filled with small objects, designed for shaking and tactile sound interaction.'>"
 collection: portfolio
 ---
 
 Many interactions with physical objects are physically or perceptually similar. For example, the experience of shaking a container of ice cubes shares many perceptual qualities with that of shaking a container of pebbles, or ball bearings. All are objects of a similar size and hardness, properties which give rise to similar auditory and haptic (inertial) percepts when they collide inside the container. Moreover, these similar physical properties also define the kinds of gestures that are possible. In the case of the example above, one can imagine reaching into the container and shuffling the objects or even removing some of them, or holding them in ones hand. In this sense we may say that the physics of an interaction defines its gesture space. In this work, which is carried out in the context of the European Union project Enactive, we seek to exploit the tacet knowledge of the behaviour of physical systems with well understood auditory and haptic percepts (collision, friction, etc.) to design new musical instruments.
-<br/><br/><img src='/images/pbcloseup.jpg' style='margin-right: 20px; vertical-align: top;'><img src='/images/pbinstalled.jpg' style='vertical-align: top;'>
+<br/><br/><img src='/images/pbcloseup.jpg' alt='Open wooden box filled with small objects, designed for shaking and tactile sound interaction.' style='margin-right: 20px; vertical-align: top;'><img src='/images/pbinstalled.jpg' alt='Indoor installation with a striped booth, a bench, the wooden box etc.' style='vertical-align: top;'>
 
 ## Related Publications:
 
