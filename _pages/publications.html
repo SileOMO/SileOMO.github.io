@@ -13,29 +13,107 @@ author_profile: true
 
 <style>
   .publication-category-heading {
-    color: #006567;
-    background: #eaf3fb;
-    padding: 0.2em 0.7em;
-    border-radius: 0.3em;
-    display: inline-block;
-    margin-bottom: 0.5em;
+    display: none;
   }
+  .tabs {
+    display: flex;
+    border-bottom: 0.125em solid #e0e0e0;
+    margin-bottom: 1.5em;
+    gap: 2em;
+    padding-top: 2.5em;
+  }
+  .tab {
+    padding: 0.5em 0;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-bottom: 0.19em solid transparent;
+    font-size: 1.1em;
+    color: #006567;
+    outline: none;
+    transition: border-bottom 0.2s, color 0.2s;
+    font-weight: 500;
+  }
+  .tab.active {
+    border-bottom: 0.19em solid #006567;
+    font-weight: bold;
+    color: #222;
+    background: none;
+    box-shadow: none;
+  }
+  .tab:focus {
+    outline: none;
+  }
+  .tab-content { display: none; margin-top: 1.5em; }
+  .tab-content.active { display: block; }
 </style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var tabs = document.querySelectorAll('.tab');
+  var contents = document.querySelectorAll('.tab-content');
+  if (tabs.length > 0) {
+    tabs[0].classList.add('active');
+    contents[0].classList.add('active');
+  }
+  tabs.forEach(function(tab, i) {
+    tab.addEventListener('click', function() {
+      tabs.forEach(function(t) { t.classList.remove('active'); });
+      contents.forEach(function(c) { c.classList.remove('active'); });
+      tab.classList.add('active');
+      contents[i].classList.add('active');
+    });
+  });
+});
+</script>
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2 class="publication-category-heading">{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+  <div class="tabs">
+    {% for category in site.publication_category %}
+      <button class="tab">{{ category[1].title }}</button>
     {% endfor %}
+  </div>
+  {% for category in site.publication_category %}
+    <div class="tab-content">
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}
+          {% continue %}
+        {% endif %}
+        {% unless title_shown %}
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% include archive-single.html %}
+      {% endfor %}
+      
+      <!-- Special handling for Book tab: Add Book Chapters subsection -->
+      {% if category[0] == 'books' %}
+        {% assign book_chapters_found = false %}
+        {% for post in site.publications reversed %}
+          {% if post.category == 'book_chapters' %}
+            {% if book_chapters_found == false %}
+              {% assign book_chapters_found = true %}
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #006567; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid #006567;">Book Chapters</h2>
+            {% endif %}
+            {% include archive-single.html %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      
+      <!-- Special handling for Conference tab: Add Lightly-reviewed Conference Papers subsection -->
+      {% if category[0] == 'conferences' %}
+        {% assign lightly_reviewed_found = false %}
+        {% for post in site.publications reversed %}
+          {% if post.category == 'lightly_reviewed' %}
+            {% if lightly_reviewed_found == false %}
+              {% assign lightly_reviewed_found = true %}
+              <h2 style="display: inline-block; width: fit-content; margin-top: 2em; margin-bottom: 0.5em; font-size: 1.2em; font-weight: 500; letter-spacing: 0.05em; color: #006567; background-color: #f0f8f8; padding: 0.5em 0.75em; border-radius: 0.25em; border-left: 0.3em solid #006567;">Lightly-reviewed Conference Papers</h2>
+            {% endif %}
+            {% include archive-single.html %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
