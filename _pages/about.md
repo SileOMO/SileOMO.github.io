@@ -16,12 +16,14 @@ Forthcoming monograph from MIT Press: <a href="https://mitpress.mit.edu/97802620
 
 ### Startup
 
-Co-founded a startup <a href=" https://www.newhaptics.com/ " target="_blank" rel="noopener">(NewHaptics)</a> manufacturing a multi-line Braille display with Alex Russomanno and Brent Gillespie
+In 2019, Professor O'Modhrain Co-founded <a href=" https://www.newhaptics.com/ " target="_blank" rel="noopener">NewHaptics</a>, with Alex Russomanno and Professor Brent Gillespie. This start-up is manufacturing a multi-line Braille display based on microfluidic actuation.
 <br><img src="images/Codex.jpg" alt="Codex multi-line refreshable Braille display" style="width:40%; margin-top:1em"><br><br>
+
 
 ### TED Talk
 
-Topic : <a href="https://www.youtube.com/watch?v=ZrjHURQiffA" target="_blank" rel="noopener"> Unnatural selection: Survival in the digital age </a><br>
+Professor O'Modhrain describes her journey from the analogue world of sound engineering to the digital world of graphical representation of information.
+<a href="https://www.youtube.com/watch?v=ZrjHURQiffA" target="_blank" rel="noopener"> <br><br>Unnatural selection: Survival in the digital age </a><br>
 May, 2017, London Business School<br>
 <div style="width:75%;aspect-ratio:16/9;">
   <iframe src="https://www.youtube.com/embed/ZrjHURQiffA" title="TED Talk: Unnatural selection: Survival in the digital age" style="width:100%; height:100%; border:0;" allowfullscreen></iframe>
@@ -30,7 +32,7 @@ May, 2017, London Business School<br>
 
 ## About
 
-Sile O'Modhrain is a professor in Performing Arts Technology at the school of Music, Theatre and Dance at the University of Michigan.
+Sile O’Modhrain is a professor in Performing Arts Technology in the school of Music, Theatre and Dance, and professor of Information in the School of Information at the University of Michigan.
 
 Her research focuses on human-computer interaction, especially interfaces incorporating haptic and auditory feedback. She earned her master's degree in music technology from the University of York and her PhD from Stanford University's Center for Computer Research in Music and Acoustics (CCRMA). She has also worked as a sound engineer and producer for BBC Network Radio. In 1994, she received a Fulbright scholarship, and went to Stanford to develop a prototype haptic interface augmenting graphical user interfaces for blind computer users.
 
