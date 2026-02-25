@@ -53,5 +53,6 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$background-lighter};
     --github-icon-color                 : #ffffff;
     --section-title-bg-color            : #fff; /* white for section titles in dark mode */
+    --section-title-color               : #{$dark-gray};
     --post-date-color                   : #{$text};
 }

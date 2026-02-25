@@ -83,10 +83,14 @@ author:
 publication_category:
   books:
     title: 'Book'
+  book_chapters:
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Peer-reviewed Conference Papers'
+  lightly_reviewed:
+    title: 'Lightly-reviewed Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
