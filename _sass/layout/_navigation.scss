@@ -189,6 +189,12 @@
     }
   }
 
+  a.active,
+  a[aria-current="page"] {
+    color: var(--global-link-color);
+    font-weight: bold;
+  }
+
   button {
     position: absolute;
     height: 2.5rem;
@@ -256,6 +262,14 @@
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
+      }
+
+      &.active:before,
+      &[aria-current="page"]:before {
+        background: var(--global-link-color);
+        -webkit-transform: scaleX(1);
+            -ms-transform: scaleX(1);
+                transform: scaleX(1);
       }
     }
   }
