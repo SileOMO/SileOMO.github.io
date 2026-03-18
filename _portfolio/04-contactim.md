@@ -11,7 +11,7 @@ One unique aspect of this project is that it is exploring touch communication th
 
 ## Related Publications:
 
-- Oakley, I. & O'Modhrain, S., (2002). "Contact IM: Exploring Asynchronous Touch Over Distance" in proceedings of CSCW 2002, New Orleans, LO <a href="https://example.com/pdf" target="_blank" rel="noopener">download pdf</a>
+- Oakley, I. & O'Modhrain, S., (2002). "Contact IM: Exploring Asynchronous Touch Over Distance" in proceedings of CSCW 2002, New Orleans, LO
 
 **People:**
 - Ian Oakley

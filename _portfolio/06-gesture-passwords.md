@@ -8,7 +8,7 @@ This project investigates the feasibility of a personal verification system usin
 
 ## Related Publications:
 
-- Farella, E., O'Modhrain, S., Benini, L. & Ricco B., (2006) "Gesture Signatures for Ambient Intelligence Applications: a Feasibility Study" To appear in Proceedings of Pervasive 2006, Springer LNCS, May 2006
+- Farella, E., O'Modhrain, S., Benini, L. & Ricco B., (2006) "Gesture Signatures for Ambient Intelligence Applications: a Feasibility Study". In Proceedings of Pervasive 2006, Springer LNCS, May 2006
 
 **People:**
 - Elisabetta Farella

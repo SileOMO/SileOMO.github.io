@@ -9,7 +9,7 @@ Topographic Torch is a handheld digital mapping tool featuring a novel egocentri
 
 ## Related Publications:
 
-- Bennett, M. and O'Modhrain, S., (2006) "Here Or There Is Where? Haptic Egocentric Interaction With Topographic Torch" To appear in Proceedings of the Workshop entitled "What is the Next Generation of Human-Computer Interaction?" CHI 2006, Montreal, Canada, April 2006
+- Bennett, M. and O'Modhrain, S., (2006) "Here Or There Is Where? Haptic Egocentric Interaction With Topographic Torch". In Proceedings of the Workshop titled "What is the Next Generation of Human-Computer Interaction?" CHI 2006, Montreal, Canada, April 2006
 
 **People:**
 - Mike Bennett

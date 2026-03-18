@@ -6,7 +6,7 @@ collection: portfolio
 
 Body mnemonics is a meta tool for portable devices that enhances their usability, shifts the interaction to the periphery of our concentration and makes them more responsive to our cultural background on the basis of three principles: proprioceptive feedback, body image, and the "method of loci" mnemonic device.
 
-Using inertial sensing the movements of a portable device in 3D space can be tracked, analysed and referenced to the posture of the user. This enables a user to store and access information on his or her own body space. For example, online banking information could be accessed by moving the device to your back pocket. Similarly, your music archive could be located at your ear.
+Using inertial sensing, the movements of a portable device in 3D space can be tracked, analysed and referenced to the posture of the user. This enables a user to store and access information on his or her own body space. For example, online banking information could be accessed by moving the device to your back pocket. Similarly, your music archive could be located at your ear.
 <br/><br/><img src='/images/bodyMnemonics.gif' alt ="Silhouette of a person touching their ankle">
 
 ## Related Publications:

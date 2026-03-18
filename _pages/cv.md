@@ -45,7 +45,7 @@ Appointments<br><br>
 
 5.	University of Michigan, Ann Arbor, MI, 2011-2024. Associate Professor, Department of Performing Arts Technology, School of Music, Theatre & Dance. 
 
-6.	Queen’s University Belfast, Sonic Arts Research Centre, Belfast, Northern Ireland 2005-2011. Senior Lecturer, Director of Research. 
+6.	Queen’s University Belfast, Sonic Arts Research Centre, Belfast, Northern Ireland, 2005-2011. Senior Lecturer, Director of Research. 
 
 7.	Media Lab Europe, Dublin, Ireland, 2001-2005. Principal Research Scientist, Director, Palpable Machines Group. 
 
@@ -68,7 +68,7 @@ Awards<br><br>
 
 2.	Mauli Pandey, Vaishnav Kameswaran, Hrishikesh Rao, Sile O'Modhrain, and Steve Oney. (2021). Understanding Accessibility and Collaboration in Programming for People with Visual Impairments. The Association for Computing Machinery’s Conference on Computer-Supported Cooperative Work and Social Computing. Toronto, Canada. (Recognition for Contribution to Diversity and Inclusion).
 
-3.	Distinguished Diversity Leaders Team Award: The Student Inclusion, Diversity, Equity, and Accessibility Board December 2019.
+3.	Distinguished Diversity Leaders Team Award: The Student Inclusion, Diversity, Equity, and Accessibility Board, December 2019.
 
 4.	Kameswaran, Vaishnav; Gupta, Jatin; Pal, Joyojeet; O' Modhrain, Sile; Veinot, Tiffany; Brewer, Robin; Parameshwar, Aakansha; Yellareddy, V; O'Neill, Jacki. "'We can go anywhere': Understanding 'Independence' through a case study of ride-hailing use by people with visual impairments in metropolitan India". Proceedings of the Association for Computing Machinery on Human-Computer Interaction. Volume 2, Issue Computer-Supported Cooperative Work and Social Computing (CSCW), Article 85 (November 2018), pp. 1–24.  (Best Paper Award).
 
