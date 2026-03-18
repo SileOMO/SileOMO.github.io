@@ -45,9 +45,9 @@ Appointments<br><br>
 
 5.	University of Michigan, Ann Arbor, MI, 2011-2024. Associate Professor, Department of Performing Arts Technology, School of Music, Theatre & Dance. 
 
-6.	Queens University Belfast, Sonic Arts Research Centre, Belfast, Northern Ireland 2005-2011. Senior Lecturer, Director of Research. 
+6.	Queen’s University Belfast, Sonic Arts Research Centre, Belfast, Northern Ireland 2005-2011. Senior Lecturer, Director of Research. 
 
-7.	Media Lab Europe, Dublin, Ireland, 2001-2005. Principal Research Scientist, Director Palpable Machines Group. 
+7.	Media Lab Europe, Dublin, Ireland, 2001-2005. Principal Research Scientist, Director, Palpable Machines Group. 
 
 8.	MIT Media Lab, Cambridge, MA, 2000-2001. Postdoctoral Researcher, Program in Media Arts and Sciences.
 
