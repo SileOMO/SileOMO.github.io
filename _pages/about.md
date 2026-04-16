@@ -23,8 +23,8 @@ Here her work focused on new interfaces for hand-held devices that tightly coupl
 
 ### Monograph
 
-Forthcoming monograph from MIT Press: <a href="https://mitpress.mit.edu/9780262052399/a-dialogue-of-the-senses/" target="_blank" rel="noopener">‘A Dialogue of the Senses : Designing Interaction with the Body in Mind’</a>
-<br><img src="images/DialogueOfTheSenses.avif" alt="Cover of the book 'A Dialogue of the Senses: Designing Interaction with the Body in Mind', by Sile O'Modhrain" style="width:30%; margin-top:1em"><br><br>
+<a href="https://mitpress.mit.edu/9780262052399/a-dialogue-of-the-senses/" target="_blank" rel="noopener">‘A Dialogue of the Senses : Designing Interaction with the Body in Mind’</a>
+<br><img src="images/DialogueOfTheSenses.avif" alt="Cover of the book 'A Dialogue of the Senses: Designing Interaction with the Body in Mind', by Sile O'Modhrain, MIT Press, April 2026" style="width:30%; margin-top:1em"><br><br>
 
 ### Startup
 
