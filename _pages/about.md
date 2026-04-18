@@ -21,12 +21,12 @@ Here her work focused on new interfaces for hand-held devices that tightly coupl
 
 ## Highlights
 
-### Monograph
+### Book
 
 <a href="https://mitpress.mit.edu/9780262052399/a-dialogue-of-the-senses/" target="_blank" rel="noopener">‘A Dialogue of the Senses : Designing Interaction with the Body in Mind’</a>
 <br><img src="images/DialogueOfTheSenses.avif" alt="Cover of the book 'A Dialogue of the Senses: Designing Interaction with the Body in Mind', by Sile O'Modhrain, MIT Press, April 2026" style="width:30%; margin-top:1em"><br><br>
 
-### Startup
+### Newhaptics
 
 In 2019, Professor O'Modhrain Co-founded <a href=" https://www.newhaptics.com/ " target="_blank" rel="noopener">NewHaptics</a>, with Alex Russomanno and Professor Brent Gillespie. This start-up is manufacturing a multi-line Braille display based on microfluidic actuation.
 <br><img src="images/Codex.jpg" alt="Codex multi-line refreshable Braille display" style="width:40%; margin-top:1em"><br><br>
